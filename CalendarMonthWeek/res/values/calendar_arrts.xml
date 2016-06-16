@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CalendarView">
+        <attr name="type">
+            <enum name="month" value="0" />
+            <enum name="week" value="1" />
+        </attr>
+        <attr name="defaultTextColor" format="color" />
+        <attr name="todayTextColor" format="color" />
+        <attr name="unMonthTextColor" format="color" />
+        <attr name="pointColor" format="color" />
+        <attr name="selectColor" format="color" />
+        <attr name="todayBackground" format="color" />
+    </declare-styleable>
+
+</resources>

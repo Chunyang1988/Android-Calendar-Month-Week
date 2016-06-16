@@ -1,0 +1,17 @@
+int attr defaultTextColor 0x7f010001
+int attr pointColor 0x7f010004
+int attr selectColor 0x7f010005
+int attr todayBackground 0x7f010006
+int attr todayTextColor 0x7f010002
+int attr type 0x7f010000
+int attr unMonthTextColor 0x7f010003
+int id month 0x7f020000
+int id week 0x7f020001
+int[] styleable CalendarView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006 }
+int styleable CalendarView_defaultTextColor 1
+int styleable CalendarView_pointColor 4
+int styleable CalendarView_selectColor 5
+int styleable CalendarView_todayBackground 6
+int styleable CalendarView_todayTextColor 2
+int styleable CalendarView_type 0
+int styleable CalendarView_unMonthTextColor 3
